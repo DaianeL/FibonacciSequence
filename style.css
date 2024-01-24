@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(250, 247, 247);
+}
+
+h1 {
+  font-family: "Satisfy", cursive;
+  font-weight: 20;
+  color: rgb(5, 5, 5);
+}
+
+button {
+  background-color: #04aa6d;
+  border: none; /*retira a borda do botão*/
+  color: rgb(255, 255, 255);
+  padding: 10px 22px;
+  text-align: center;
+
+  font-size: 13px;
+  border-radius: 21px;
+  cursor: pointer;
+}
